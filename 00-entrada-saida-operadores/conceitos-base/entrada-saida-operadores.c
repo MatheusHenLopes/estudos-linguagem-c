@@ -16,7 +16,7 @@ int main() {
     printf("%lf\n", number3);
     printf("%s\n", nome);
 
-    // exemplo de construção
+    // exemplo de construção usando todos
 
     printf("O estudante %s, sabe que o valor de PI e aproximadamente %f e calculou o log de %d, o resultado foi de %lf", nome, number2, number1, number3);
 
